@@ -7,6 +7,8 @@ As privacy policy is for to know users that how an application collect data from
 Inside the application, Google Sign in is available but that is not a required feature, also there are currently no feature related to it. In the next updates of the application there will be some new features related to Google Sign in.
 As this is a wallpaper application, it requires SET_WALLPAPER permission in order to set wallpaper in your device.
 The other feature of this application is to download wallpapers, it also requires Storage permission in order to download wallpapers into your device.
+Firebase, Google Analytics are available inside the app for user metrics.
+Google Admob ads are placed inside the application.
 
 if there is an security issue inside the app, or you have any question contact with us.
 
